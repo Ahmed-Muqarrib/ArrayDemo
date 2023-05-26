@@ -7,6 +7,7 @@ public class Student {
     //friday
     //comment added for modification
     //comment for fetch and merge
+    //comment for DEMO merging
     
     private String sId;
     private String sName;
