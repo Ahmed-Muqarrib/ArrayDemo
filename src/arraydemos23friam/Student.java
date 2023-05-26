@@ -4,6 +4,9 @@ package arraydemos23friam;
 
 public class Student {
     //comment added at 9:27AM
+    //friday
+    //comment added for modification
+    
     private String sId;
     private String sName;
     private String address;
@@ -36,7 +39,5 @@ public class Student {
     public void setsName(String sName) {
         this.sName = sName;
     }
-    
-    
     
 }
