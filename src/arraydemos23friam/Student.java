@@ -8,6 +8,7 @@ public class Student {
     //comment added for modification
     //comment for fetch and merge
     //comment for DEMO merging
+    //comment for pull
     
     private String sId;
     private String sName;
